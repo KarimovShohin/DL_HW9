@@ -1,0 +1,10 @@
+pandas
+numpy
+datasets
+tqdm
+nltk
+gensim
+torch
+scikit-learn
+matplotlib
+logging
